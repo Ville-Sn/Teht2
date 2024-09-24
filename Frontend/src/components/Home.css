@@ -1,0 +1,47 @@
+#mainColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+}
+
+.header {
+  display: flex;
+  gap: 50px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.headerFinnish,
+.headerEnglish {
+  flex: 1;
+}
+
+.wordList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.wordPair {
+  display: flex;
+  gap: 50px;
+  margin-bottom: 5px;
+}
+
+.finnishWord,
+.englishWord {
+  flex: 1;
+}
+
+.errorPopup {
+  color: red;
+  margin-top: 10px;
+}
+
+button {
+  margin: 5px;
+}
+
+input{
+  margin: 5px;
+}

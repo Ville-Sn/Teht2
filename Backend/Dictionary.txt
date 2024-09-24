@@ -1,0 +1,11 @@
+auto car
+talo house
+kirja book
+lato barn
+kissa cat
+koira dog
+lamppu lamp
+näyttö screen
+kuulokkeet headphones
+hiiri mouse
+näppäimistö keyboard
